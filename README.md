@@ -200,7 +200,7 @@ contract HelloWorld {
 ## Calculator
 
 ```python
-# Calculator in Python
+# Calculator in Neo Python
 
 def Main(operation, a, b):
 
