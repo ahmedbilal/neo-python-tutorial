@@ -133,7 +133,6 @@ Invoke TX fee: 0.0001
 
 
 ## Notes
---------------------------
 
 1. In Python, we usually don't mention data type of variables. However, We need to mention the types of our arguments when we are deploying the Smart Contract. For Example, we deploy the following Smart Contract **calc.py** using the following command
 
@@ -175,7 +174,7 @@ def Main(operation, a, b):
 
 
 ## Conversion of Neo Python to Solidity
----------------------------------------
+
 ## Hello World
 ```python
 # Hello World in Neo Python
